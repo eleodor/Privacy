@@ -17,4 +17,4 @@ The extension does not share any user data with third parties.
 **4. User Rights**
 Since no personal data is collected, there are no user data rights to exercise.
 
-For any questions regarding this privacy policy, please contact us at [your contact email].
+For any questions regarding this privacy policy, please contact us at eleodor_k9@yahoo.com
